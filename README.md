@@ -99,3 +99,10 @@ The dashboard enables business users to monitor advertising effectiveness, campa
 **Papia Sarkar**
 
 Data Analyst | Marketing Analytics Analyst | Media Analyst
+---
+
+## Dashboard Preview
+
+### Global Marketing Campaign Dashboard
+
+![Dashboard](Screenshot%202026-09-11%20120445
