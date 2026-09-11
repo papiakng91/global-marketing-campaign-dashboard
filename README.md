@@ -105,4 +105,4 @@ Data Analyst | Marketing Analytics Analyst | Media Analyst
 
 ### Global Marketing Campaign Dashboard
 
-![Globald_Preview.png
+Dashboard_Preview.png
